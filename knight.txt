@@ -1,0 +1,8 @@
+Knight
+Health: 1000
+Attack: 110
+Passive Ability - Unshakable: Reduces all incoming damage by 10%, showing unmatched resilience.
+Defensive Ability - Tank with flesh and bones: Activates a shield that absorbs 40% of damage for 2 moves, making the Knight a fortress in battle.
+
+
+The Knight stands tall, armored in unyielding steel and unshakable resolve. A master of defense, he can endure even the fiercest assaults. Strength, honor, and protection are his creed.

@@ -1,0 +1,8 @@
+Archer
+Health: 900
+Attack: 100
+Passive Ability - Wind Dance: 25% chance to completely dodge incoming attacks, showcasing nimble reflexes.
+Defensive Ability - Bulls eye: Gains a 50% chance to deal double damage and ignore armor, piercing through any defense.
+
+
+With unparalleled precision and deadly accuracy, the Archer strikes from the shadows. Agile and unpredictable, every arrow fired has the potential to turn the tide of battle. Speed and cunning define this sharpshooter.

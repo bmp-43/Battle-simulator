@@ -1,0 +1,9 @@
+Wizard
+Health: 750
+Attack: 80
+Passive Ability - Pyromaniac: Inflicts a burning effect on the opponent, dealing 40 damage per move for 2 moves and healing the Wizard for 40 HP per move.
+Defensive Ability - Hades fortress: Summons a fire shield that absorbs 20% of damage and reflects half back at the attacker for 2 moves.
+
+
+The Wizard conjures flames of fury and mystic power. With the ability to burn and heal in equal measure, his spells leave enemies scorched and regretful. Intelligence and strategy fuel his dominance.
+

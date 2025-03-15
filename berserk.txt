@@ -1,0 +1,8 @@
+Berserk
+Health: 1100
+Attack: 150
+Passive Ability - Avenger:Gains a 40% damage boost when health drops below 40%.Receives a shield that absorbs 25% damage when health drops below 30%.
+Defensive Ability - Bloodlust: Sacrifices 15% of his current HP to gain a 30% attack boost for 3 moves.
+
+
+Fueled by raw power and a lust for battle, the Berserk thrives in chaos. As his health dwindles, his fury grows, transforming him into a relentless force of destruction. Survival is for the weak; he lives to conquer.
