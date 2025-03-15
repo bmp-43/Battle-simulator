@@ -120,6 +120,8 @@ class Berserk(Character):
         self.attack_bonus_applied = False
         self.rage_boost_applied = False
 
+#If Berserk's health drops below 40% his damage will increase by 40%
+    
     def attack_bonus(self):
         if self._health < (self.initial_health * 0.4) and not self.attack_bonus_applied:
             self._attack *= 1.4
@@ -175,7 +177,7 @@ class Berserk(Character):
 
     def status(self):
         shield_status = "active" if self.shield_active else "inactive"
-        print(f"Berserk - Health: {self._health}, Rage count: {self.rage_count}, Shield: {shield_status}")
+        print(f"Berserk - Health: {self._health}, Rage count: {self.rage_count}, Shield: {shield_status}, Attack bonus: {self.attack_bonus_applied}")
 
 class Archer(Character):
     def __init__(self, health, attack, penetration=False, agility = False):
